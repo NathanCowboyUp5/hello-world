@@ -1,0 +1,6 @@
+name = "Nathan Stroup"
+address = "12004 S. Sycamore St. Jenks, OK 74037"
+telephone = "918-955-8189"
+print(name)
+print(address)
+print(telephone)
